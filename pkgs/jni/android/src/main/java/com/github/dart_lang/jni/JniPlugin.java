@@ -13,13 +13,22 @@ import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding;
 
 public class JniPlugin implements FlutterPlugin, ActivityAware {
 
+  private static boolean initialized;
+
   @Override
   public void onAttachedToEngine(@NonNull FlutterPluginBinding binding) {
     setup(binding.getApplicationContext());
   }
 
   private void setup(Context context) {
-    initializeJni(context, getClass().getClassLoader());
+    // Native references, locks, and TLS keys belong to the process, not an
+    // individual Flutter engine. Reinitializing overwrites live native state.
+    synchronized (JniPlugin.class) {
+      if (!initialized) {
+        initializeJni(context, JniPlugin.class.getClassLoader());
+        initialized = true;
+      }
+    }
   }
 
   @Override
