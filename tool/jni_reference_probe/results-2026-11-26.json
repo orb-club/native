@@ -1,0 +1,719 @@
+{
+  "date": "2026-11-26",
+  "device": "Pixel 6 Pro emulator, Android 14 API 34, arm64",
+  "flutter": "3.47.5",
+  "sentry_flutter": "9.30.1",
+  "jni": "0.14.2",
+  "java_sentry": "8.56.0",
+  "build": "debug",
+  "jni_patch_sha256": "66eb8be722adbe47246d5d09f66e1612eb52254c4458e4f7a5b1beb60bbcfe3e",
+  "series": {
+    "debug": [
+      {
+        "phase": "control_before",
+        "global_refs": 413
+      },
+      {
+        "phase": "control_held_32",
+        "global_refs": 445
+      },
+      {
+        "phase": "control_released",
+        "global_refs": 413
+      },
+      {
+        "phase": "cycle_1",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_10",
+        "global_refs": 414
+      },
+      {
+        "phase": "cycle_20",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_30",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_40",
+        "global_refs": 417
+      },
+      {
+        "phase": "cycle_50",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_60",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_70",
+        "global_refs": 421
+      },
+      {
+        "phase": "cycle_80",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_90",
+        "global_refs": 415
+      },
+      {
+        "phase": "cycle_100",
+        "global_refs": 415
+      }
+    ],
+    "registration-before": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "engine_1",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_2",
+        "global_refs": 392
+      },
+      {
+        "phase": "engine_3",
+        "global_refs": 398
+      },
+      {
+        "phase": "engine_4",
+        "global_refs": 404
+      },
+      {
+        "phase": "engine_5",
+        "global_refs": 410
+      },
+      {
+        "phase": "engine_6",
+        "global_refs": 416
+      },
+      {
+        "phase": "engine_7",
+        "global_refs": 422
+      },
+      {
+        "phase": "engine_8",
+        "global_refs": 428
+      },
+      {
+        "phase": "engine_9",
+        "global_refs": 434
+      },
+      {
+        "phase": "engine_10",
+        "global_refs": 440
+      },
+      {
+        "phase": "engine_11",
+        "global_refs": 446
+      },
+      {
+        "phase": "engine_12",
+        "global_refs": 452
+      },
+      {
+        "phase": "engine_13",
+        "global_refs": 458
+      },
+      {
+        "phase": "engine_14",
+        "global_refs": 464
+      },
+      {
+        "phase": "engine_15",
+        "global_refs": 470
+      },
+      {
+        "phase": "engine_16",
+        "global_refs": 476
+      },
+      {
+        "phase": "engine_17",
+        "global_refs": 482
+      },
+      {
+        "phase": "engine_18",
+        "global_refs": 488
+      },
+      {
+        "phase": "engine_19",
+        "global_refs": 494
+      },
+      {
+        "phase": "engine_20",
+        "global_refs": 500
+      },
+      {
+        "phase": "engine_21",
+        "global_refs": 506
+      },
+      {
+        "phase": "engine_22",
+        "global_refs": 512
+      },
+      {
+        "phase": "engine_23",
+        "global_refs": 518
+      },
+      {
+        "phase": "engine_24",
+        "global_refs": 524
+      },
+      {
+        "phase": "engine_25",
+        "global_refs": 530
+      },
+      {
+        "phase": "engine_26",
+        "global_refs": 536
+      },
+      {
+        "phase": "engine_27",
+        "global_refs": 542
+      },
+      {
+        "phase": "engine_28",
+        "global_refs": 548
+      },
+      {
+        "phase": "engine_29",
+        "global_refs": 554
+      },
+      {
+        "phase": "engine_30",
+        "global_refs": 560
+      }
+    ],
+    "final-registration": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "engine_1",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_2",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_3",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_4",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_5",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_6",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_7",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_8",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_9",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_10",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_11",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_12",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_13",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_14",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_15",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_16",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_17",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_18",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_19",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_20",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_21",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_22",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_23",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_24",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_25",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_26",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_27",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_28",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_29",
+        "global_refs": 386
+      },
+      {
+        "phase": "engine_30",
+        "global_refs": 386
+      }
+    ],
+    "engine-before": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "engine_1",
+        "global_refs": 390
+      },
+      {
+        "phase": "engine_2",
+        "global_refs": 397
+      },
+      {
+        "phase": "engine_3",
+        "global_refs": 404
+      },
+      {
+        "phase": "engine_4",
+        "global_refs": 411
+      },
+      {
+        "phase": "engine_5",
+        "global_refs": 418
+      },
+      {
+        "phase": "engine_6",
+        "global_refs": 425
+      },
+      {
+        "phase": "engine_7",
+        "global_refs": 432
+      },
+      {
+        "phase": "engine_8",
+        "global_refs": 439
+      },
+      {
+        "phase": "engine_9",
+        "global_refs": 446
+      },
+      {
+        "phase": "engine_10",
+        "global_refs": 453
+      },
+      {
+        "phase": "engine_11",
+        "global_refs": 460
+      },
+      {
+        "phase": "engine_12",
+        "global_refs": 467
+      },
+      {
+        "phase": "engine_13",
+        "global_refs": 474
+      },
+      {
+        "phase": "engine_14",
+        "global_refs": 480
+      },
+      {
+        "phase": "engine_15",
+        "global_refs": 487
+      },
+      {
+        "phase": "engine_16",
+        "global_refs": 494
+      },
+      {
+        "phase": "engine_17",
+        "global_refs": 501
+      },
+      {
+        "phase": "engine_18",
+        "global_refs": 508
+      },
+      {
+        "phase": "engine_19",
+        "global_refs": 514
+      },
+      {
+        "phase": "engine_20",
+        "global_refs": 519
+      },
+      {
+        "phase": "engine_21",
+        "global_refs": 525
+      },
+      {
+        "phase": "engine_22",
+        "global_refs": 531
+      },
+      {
+        "phase": "engine_23",
+        "global_refs": 537
+      },
+      {
+        "phase": "engine_24",
+        "global_refs": 543
+      },
+      {
+        "phase": "engine_25",
+        "global_refs": 549
+      },
+      {
+        "phase": "engine_26",
+        "global_refs": 555
+      },
+      {
+        "phase": "engine_27",
+        "global_refs": 561
+      },
+      {
+        "phase": "engine_28",
+        "global_refs": 567
+      },
+      {
+        "phase": "engine_29",
+        "global_refs": 573
+      },
+      {
+        "phase": "engine_30",
+        "global_refs": 579
+      }
+    ],
+    "engine-after": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "engine_1",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_2",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_3",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_4",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_5",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_6",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_7",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_8",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_9",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_10",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_11",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_12",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_13",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_14",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_15",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_16",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_17",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_18",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_19",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_20",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_21",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_22",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_23",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_24",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_25",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_26",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_27",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_28",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_29",
+        "global_refs": 389
+      },
+      {
+        "phase": "engine_30",
+        "global_refs": 389
+      }
+    ],
+    "survivor": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "survivor_1",
+        "global_refs": 405
+      },
+      {
+        "phase": "survivor_2",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_3",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_4",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_5",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_6",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_7",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_8",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_9",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_10",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_11",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_12",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_13",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_14",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_15",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_16",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_17",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_18",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_19",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_20",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_21",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_22",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_23",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_24",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_25",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_26",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_27",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_28",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_29",
+        "global_refs": 406
+      },
+      {
+        "phase": "survivor_30",
+        "global_refs": 406
+      }
+    ],
+    "first-use": [
+      {
+        "phase": "engine_baseline",
+        "global_refs": 350
+      },
+      {
+        "phase": "first_use_0",
+        "global_refs": 356
+      },
+      {
+        "phase": "first_use_1",
+        "global_refs": 356
+      }
+    ]
+  },
+  "limitations": [
+    "No ART abort reproduced; production attribution remains unknown.",
+    "Engine-before was captured with the early harness before the explicit mode marker; source used real native Sentry init/capture.",
+    "SDK init/close baseline is unpatched; 32-reference control applies to unchanged reference APIs."
+  ]
+}
